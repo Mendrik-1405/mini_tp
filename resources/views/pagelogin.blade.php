@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="{{asset('assets/dist/css/style.min.css')}}" rel="stylesheet" type="text/css" />
+    <link href="{{secure_url('assets/dist/css/style.min.css')}}" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
