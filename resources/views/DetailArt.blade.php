@@ -25,7 +25,7 @@
                     <div class="col-md-8">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title"><?php echo ($art[0]['titre']);?></h5>
+                                <h1 class="card-title"><?php echo ($art[0]['titre']);?></h1>
                                 <?php echo ($art[0]['contenu']);?>
                             </div>
                         </div>

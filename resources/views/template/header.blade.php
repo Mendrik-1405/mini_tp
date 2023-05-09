@@ -10,7 +10,7 @@
                 <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
                 <!-- Dark Logo icon -->
                 <img
-                  src="{{asset('assets/assets/images/logo-icon.png')}}"
+                  src="{{secure_url('assets/assets/images/logo-icon.png')}}"
                   alt="homepage"
                   class="light-logo"
                   width="25"
