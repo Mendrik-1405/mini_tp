@@ -1,26 +1,26 @@
-<script src="{{asset('assets/assets/libs/jquery/dist/jquery.min.js')}}"></script>
+<script src="{{secure_url('assets/assets/libs/jquery/dist/jquery.min.js')}}"></script>
     <!-- Bootstrap tether Core JavaScript -->
-    <script src="{{asset('assets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
     <!-- slimscrollbar scrollbar JavaScript -->
-    <script src="{{asset('assets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js')}}"></script>
-    <script src="{{asset('assets/assets/extra-libs/sparkline/sparkline.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/extra-libs/sparkline/sparkline.js')}}"></script>
     <!--Wave Effects -->
-    <script src="{{asset('assets/dist/js/waves.js')}}"></script>
+    <script src="{{secure_url('assets/dist/js/waves.js')}}"></script>
     <!--Menu sidebar -->
-    <script src="{{asset('assets/dist/js/sidebarmenu.js')}}"></script>
+    <script src="{{secure_url('assets/dist/js/sidebarmenu.js')}}"></script>
     <!--Custom JavaScript -->
-    <script src="{{asset('assets/dist/js/custom.min.js')}}"></script>
+    <script src="{{secure_url('assets/dist/js/custom.min.js')}}"></script>
     <!-- This Page JS -->
-    <script src="{{asset('assets/assets/libs/inputmask/dist/min/jquery.inputmask.bundle.min.js')}}"></script>
-    <script src="{{asset('assets/dist/js/pages/mask/mask.init.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/select2/dist/js/select2.full.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/select2/dist/js/select2.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/jquery-asColor/dist/jquery-asColor.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/jquery-asGradient/dist/jquery-asGradient.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/jquery-asColorPicker/dist/jquery-asColorPicker.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/jquery-minicolors/jquery.minicolors.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js')}}"></script>
-    <script src="{{asset('assets/assets/libs/quill/dist/quill.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/inputmask/dist/min/jquery.inputmask.bundle.min.js')}}"></script>
+    <script src="{{secure_url('assets/dist/js/pages/mask/mask.init.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/select2/dist/js/select2.full.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/select2/dist/js/select2.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/jquery-asColor/dist/jquery-asColor.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/jquery-asGradient/dist/jquery-asGradient.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/jquery-asColorPicker/dist/jquery-asColorPicker.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/jquery-minicolors/jquery.minicolors.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js')}}"></script>
+    <script src="{{secure_url('assets/assets/libs/quill/dist/quill.min.js')}}"></script>
     <script>
       //***********************************//
       // For select 2
